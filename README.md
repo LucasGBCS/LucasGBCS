@@ -2,16 +2,26 @@
 
 ###
 
-<h2 align="left">Techs</h2>
+<h2 align="left">🤖A Little About Me</h2>
+
+###
+
+<p align="left">🌍 I'm from São Paulo, Brazil.<br><br>💻 Aspiring back-end with front-end knowledge, learning and growing every day.<br>🎯 Focused on JavaScript, Node.js, Typescript, React, PHP, HTML, CSS and Back-end Developer in genera<br>🛠️ Building projects to develop my skills and showcase my journey.</p>
+
+###
+
+<h2 align="left">🛠 Language and tools</h2>
 
 ###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img width="12" />
@@ -20,12 +30,18 @@
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
 </div>
 
-###
+##
 
-<h2 align="left">Stats</h2>
+<h2 align="left">🚀 What You’ll Find Here</h2>
 
-###
+<p align="left">📂 This repository is a collection of my projects, exercises, and experiments as I progress in my career as a developer. Some of the things you'll find:<br>
 
+
+<h3 align="left">🔥   My Stats :</h3>
+
+
+
+  
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LucasGBCS&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasGBCS&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=chartreuse-dark&hide_border=false&order=2" height="150" alt="languages graph"  />
@@ -39,11 +55,16 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/lucasbolognani/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo "  />  </a>
+  
   <a href="mailto:lucasgbcds@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
+</div>
+
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=LucasGBCS.LucasGBCS&left_color=black&right_color=cadetblue&left_text=Visitors"  />
 </div>
 
 ###

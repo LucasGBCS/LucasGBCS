@@ -8,6 +8,9 @@
 
 <p align="left">🌍 I'm from São Paulo, Brazil.<br><br>💻 Aspiring back-end with front-end knowledge, learning and growing every day.<br>🎯 Focused on JavaScript, Node.js, Typescript, React, PHP, HTML, CSS and Back-end Developer in genera<br>🛠️ Building projects to develop my skills and showcase my journey.</p>
 
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
 ###
 
 <h2 align="left">🛠 Language and tools</h2>
@@ -39,8 +42,6 @@
 
 <h3 align="left">🔥   My Stats :</h3>
 
-
-
   
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LucasGBCS&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
@@ -62,9 +63,11 @@
   </a>
 </div>
 
-
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=LucasGBCS.LucasGBCS&left_color=black&right_color=cadetblue&left_text=Visitors"  />
 </div>
 
 ###
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+

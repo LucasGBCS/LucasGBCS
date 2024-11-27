@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">🤖A Little About Me</h2>
+### 🤖A Little About Me
 
 ###
 
@@ -33,13 +33,13 @@
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
 </div>
 
-
+<br>
 
 ### 🚀 What You’ll Find Here
 
 <p align="left">📂 This repository is a collection of my projects, exercises, and experiments as I progress in my career as a developer. Some of the things you'll find:<br>
 
-#
+
 
 <h3 align="left">🔥   My Stats :</h3>
 

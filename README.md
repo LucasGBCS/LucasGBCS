@@ -8,12 +8,12 @@
 
 <p align="left">🌍 I'm from São Paulo, Brazil.<br><br>💻 Aspiring back-end with front-end knowledge, learning and growing every day.<br>🎯 Focused on JavaScript, Node.js, Typescript, React, PHP, HTML, CSS and Back-end Developer in genera<br>🛠️ Building projects to develop my skills and showcase my journey.</p>
 
+##
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="350px" width="300px" align="right" alt="Computador iuriCode">
 
-###
 
-<h2 align="left">🛠 Language and tools</h2>
+### 🛠 Language and tools
 
 ###
 
@@ -33,12 +33,13 @@
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
 </div>
 
-##
 
-<h2 align="left">🚀 What You’ll Find Here</h2>
+
+### 🚀 What You’ll Find Here
 
 <p align="left">📂 This repository is a collection of my projects, exercises, and experiments as I progress in my career as a developer. Some of the things you'll find:<br>
 
+#
 
 <h3 align="left">🔥   My Stats :</h3>
 

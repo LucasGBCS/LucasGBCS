@@ -37,7 +37,7 @@
 
 ### 🚀 What You’ll Find Here
 
-<p align="left">📂 This repository is a collection of my projects, exercises, and experiments as I progress in my career as a developer. Some of the things you'll find:<br>
+<p align="left">📂 This repository is a collection of my projects, exercises, and experiments as I progress in my career as a developer.<Br>
 
 
 

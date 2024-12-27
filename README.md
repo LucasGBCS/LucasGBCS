@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🌍 I'm from Santos/SP - Brasil.<br><br>💻 Aspiring back-end with front-end knowledge, learning and growing every day.<br>🎯 Focused on JavaScript, Node.js, Typescript, React, PHP, HTML, CSS and Back-end Developer in genera<br>🛠️ Building projects to develop my skills and showcase my journey.</p>
+<p align="left">🌍 I'm from Santos/SP - Brasil.<br><br>💻 Aspiring back-end with front-end knowledge, learning and growing every day.<br>🎯 Focused on JavaScript, Node.js, Typescript, React, PHP, HTML and CSS<br>🛠️ Building projects to develop my skills and showcase my journey.</p>
 
 ##
 
